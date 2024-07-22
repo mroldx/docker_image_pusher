@@ -3,3 +3,4 @@
 #nacos/nacos-server:v2.4.0
 #quay.io/vbouchaud/nfs-client-provisioner:v3.2.2
 busybox:1.36
+nacos/nacos-peer-finder-plugin:1.1
