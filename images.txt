@@ -1,3 +1,4 @@
 nginx
 #支持私库
 nacos/nacos-server:v2.4.0
+quay.io/vbouchaud/nfs-client-provisioner:v3.2.2
