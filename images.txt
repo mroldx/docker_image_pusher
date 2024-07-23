@@ -6,5 +6,5 @@ busybox:1.36
 nacos/nacos-peer-finder-plugin:1.1
 redis:5.0.14-alpine
 mirrorgooglecontainers/defaultbackend-amd64:1.4
-kubesphere/notification-manager-operator:v2.3.0
+kubesphere/notification-manager:v2.3.0
 kubesphere/prometheus-operator:v0.55.1
