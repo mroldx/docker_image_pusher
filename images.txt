@@ -13,3 +13,4 @@ prom/prometheus:v2.39.1
 registry.cn-beijing.aliyuncs.com/kubesphereio/prometheus-config-reloader:v0.55.1
 kubesphere/ks-controller-manager:v3.4.1
 rabbitmq:3.12.14-management
+openjdk:8-jre
