@@ -15,3 +15,5 @@ kubesphere/ks-controller-manager:v3.4.1
 rabbitmq:3.12.14-management
 openjdk:8-jre
 ylyue/plumelog
+openjdk:17-jdk-alpine
+minio:RELEASE.2025-04-22T22-12-26Z
