@@ -4,3 +4,4 @@ portainer/agent:2.16.0
 portainer/portainer-ce:2.33.5
 eclipse-temurin:17-jre-alpine-3.22
 nginx:1.28.0
+rclone/rclone:latest
